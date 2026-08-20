@@ -202,3 +202,5 @@ jobs:
         run: |
           set -euo pipefail
           echo "::notice::Docker image + GitHub Release + gh-pages are a cutover TODO (reworked release.yaml); not performed here."
+
+# (re-index touch — safe no-op)
