@@ -1,0 +1,6 @@
+id = "2e1cb8b1-d442-41f7-a1cd-12cb0255139e"
+
+[[changes]]
+crate = "zaino-state"
+kind = "fix"
+description = "Emergency null-deref guard"
