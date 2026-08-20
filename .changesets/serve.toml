@@ -1,0 +1,4 @@
+[[changes]]
+crate = "zaino-serve"
+kind = "feature"
+description = "Mid-cycle: add a new RPC endpoint."
