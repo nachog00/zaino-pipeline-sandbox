@@ -6033,7 +6033,7 @@ dependencies = [
 
 [[package]]
 name = "zaino-serve"
-version = "0.5.1"
+version = "0.5.2"
 dependencies = [
  "futures",
  "hex",
@@ -6218,7 +6218,7 @@ dependencies = [
 
 [[package]]
 name = "zainod"
-version = "0.7.0"
+version = "0.7.1"
 dependencies = [
  "clap",
  "config",

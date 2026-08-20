@@ -1,4 +1,5 @@
 id = "29e49762-6575-4815-b66f-3dfa685f5148"
+consumed_in = "cycle-1"
 
 [[changes]]
 crate = "zaino-serve"

@@ -43,6 +43,10 @@ and this crate adheres to Rust's notion of
   `std::process::exit(1)` from inside a library, so the daemon controls its own
   shutdown path on an unreachable validator.
 
+## [0.7.2] - 2026-08-20
+### Added
+- Config reload on SIGHUP
+
 ## [0.7.0] - 2026-08-04
 
 ### Added

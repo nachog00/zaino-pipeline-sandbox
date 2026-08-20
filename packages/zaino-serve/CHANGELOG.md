@@ -23,6 +23,10 @@ and this library adheres to Rust's notion of
 ### Removed
 ### Fixed
 
+## [0.5.3] - 2026-08-20
+### Added
+- Streaming batch tuning
+
 ## [0.5.1] - 2026-08-04
 
 ### Changed

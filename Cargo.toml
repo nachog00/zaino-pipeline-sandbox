@@ -190,7 +190,7 @@ zaino-chain-head = { path = "packages/zaino-chain-head", version = "0.1.0" }
 zaino-chain-head-service = { path = "packages/zaino-chain-head-service", version = "0.1.0" }
 zaino-proto = { path = "packages/zaino-proto", version = "0.3.0" }
 zaino-state = { path = "packages/zaino-state", version = "0.6.0", default-features = false }
-zaino-serve = { path = "packages/zaino-serve", version = "0.5.1", default-features = false }
+zaino-serve = { path = "packages/zaino-serve", version = "0.5.2", default-features = false }
 zaino-testutils = { path = "live-tests/zaino-testutils" }
 
 # Zingo-infra (validator launcher driving the live tests; not a prod dep).
