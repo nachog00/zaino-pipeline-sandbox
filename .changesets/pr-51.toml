@@ -1,0 +1,6 @@
+id = "80278f79-e3f8-49d5-b9c7-67ac14a45f9a"
+
+[[changes]]
+crate = "zaino-serve"
+kind = "feature"
+description = "Deployment gate connection test"
