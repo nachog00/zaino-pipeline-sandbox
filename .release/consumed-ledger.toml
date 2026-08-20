@@ -1,0 +1,24 @@
+[[consumed]]
+id = "2eb453a3-5948-4c67-b041-3e590d4883af"
+cycle = "cycle-1"
+slug = "pr-20"
+
+[[consumed]]
+id = "2f925722-5bb4-440d-b228-df5a7e0d06e3"
+cycle = "cycle-2"
+slug = "pr-25"
+
+[[consumed]]
+id = "de7c99f7-ac28-4ac6-a149-847fee28ed2b"
+cycle = "cycle-1"
+slug = "pr-21"
+
+[[consumed]]
+id = "e2c03f86-4703-4e8e-b852-4b39efedff26"
+cycle = "cycle-2"
+slug = "pr-26"
+
+[[consumed]]
+id = "eb870360-25c9-4533-8f87-675986281f23"
+cycle = "cycle-3"
+slug = "pr-31"
