@@ -1,0 +1,6 @@
+id = "2f925722-5bb4-440d-b228-df5a7e0d06e3"
+
+[[changes]]
+crate = "zaino-state"
+kind = "fix"
+description = "Fix off-by-one in the tip-height gauge"
