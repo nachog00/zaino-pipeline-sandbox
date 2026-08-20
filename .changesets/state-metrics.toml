@@ -1,0 +1,6 @@
+id = "8792f26c-2987-4259-ae82-609fbfbf56f9"
+
+[[changes]]
+crate = "zaino-state"
+kind = "feature"
+description = "Expose sync-lag metric"
