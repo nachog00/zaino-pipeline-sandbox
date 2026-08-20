@@ -1,0 +1,6 @@
+id = "253898b5-494b-4d9b-9d39-2f32c3397a3d"
+
+[[changes]]
+crate = "zaino-serve"
+kind = "feature"
+description = "Batch compact-tx streaming"
