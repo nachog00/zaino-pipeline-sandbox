@@ -5976,7 +5976,7 @@ dependencies = [
 
 [[package]]
 name = "zaino-proto"
-version = "0.3.0"
+version = "0.4.0"
 dependencies = [
  "prost",
  "tonic",
@@ -6003,7 +6003,7 @@ dependencies = [
 
 [[package]]
 name = "zaino-serve"
-version = "0.5.1"
+version = "0.5.2"
 dependencies = [
  "futures",
  "hex",
@@ -6088,7 +6088,7 @@ dependencies = [
 
 [[package]]
 name = "zaino-state"
-version = "0.6.0"
+version = "0.6.1"
 dependencies = [
  "arc-swap",
  "bitflags 2.13.0",

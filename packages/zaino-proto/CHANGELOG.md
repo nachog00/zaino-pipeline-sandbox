@@ -13,6 +13,10 @@ and this library adheres to Rust's notion of
 ### Removed
 ### Fixed
 
+## [0.5.0] - 2026-08-20
+### Changed
+- Rename a CompactTx field for clarity
+
 ## [0.3.0] - 2026-08-04
 
 ### Added
