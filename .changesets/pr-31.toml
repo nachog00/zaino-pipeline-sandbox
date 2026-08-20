@@ -1,0 +1,6 @@
+id = "eb870360-25c9-4533-8f87-675986281f23"
+
+[[changes]]
+crate = "zaino-state"
+kind = "fix"
+description = "Guard against panic on malformed block"
