@@ -1,4 +1,5 @@
 id = "e2c03f86-4703-4e8e-b852-4b39efedff26"
+consumed_in = "cycle-2"
 
 [[changes]]
 crate = "zainod"

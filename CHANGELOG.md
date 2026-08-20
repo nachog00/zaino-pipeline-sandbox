@@ -169,6 +169,12 @@ and this library adheres to Rust's notion of
   `.unwrap()` on the same path.
 
 ## [2026-08-20]
+### zainod 0.7.2
+- Add a --metrics-addr flag
+### zaino-state 0.6.3
+- Fix off-by-one in the tip-height gauge
+
+## [2026-08-20]
 ### zaino-serve 0.5.3
 - Batch compact-tx streaming
 - dependency `zaino-proto` 0.4.0→0.5.0 crossed the requirement `^0.4.0`
