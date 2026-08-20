@@ -1,0 +1,9 @@
+[[changes]]
+crate = "zainod"
+kind = "feature"
+description = "Add a --sync-mode CLI flag."
+
+[[changes]]
+crate = "zaino-common"
+kind = "fix"
+description = "Fix an off-by-one in height math."
