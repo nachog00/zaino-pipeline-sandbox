@@ -6088,7 +6088,7 @@ dependencies = [
 
 [[package]]
 name = "zaino-state"
-version = "0.6.0"
+version = "0.6.1"
 dependencies = [
  "arc-swap",
  "bitflags 2.13.0",
