@@ -175,7 +175,7 @@ zaino-source-zebra-readstate = { path = "packages/zaino-source-zebra-readstate",
 zaino-source-zebra = { path = "packages/zaino-source-zebra", version = "0.1.0" }
 zaino-common = { path = "packages/zaino-common", version = "0.4.0" }
 zaino-proto = { path = "packages/zaino-proto", version = "0.3.0" }
-zaino-state = { path = "packages/zaino-state", version = "0.6.0", default-features = false }
+zaino-state = { path = "packages/zaino-state", version = "0.6.1", default-features = false }
 zaino-serve = { path = "packages/zaino-serve", version = "0.5.1", default-features = false }
 zaino-testutils = { path = "live-tests/zaino-testutils" }
 

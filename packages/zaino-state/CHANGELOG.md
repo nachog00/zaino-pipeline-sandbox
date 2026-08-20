@@ -13,6 +13,10 @@ and this library adheres to Rust's notion of
 ### Removed
 ### Fixed
 
+## [0.6.2] - 2026-08-20
+### Added
+- Live-check change for the consumed-UID ledger verification.
+
 ## [0.6.0] - 2026-08-04
 
 ### Added
