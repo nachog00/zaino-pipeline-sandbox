@@ -171,3 +171,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git tag "$tag" "${{ steps.ff.outputs.rc_sha }}"
           git push origin "$tag"
+
+# (re-index touch — safe no-op)
