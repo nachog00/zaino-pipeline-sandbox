@@ -1,0 +1,6 @@
+id = "22ad4ded-fabb-428b-8493-4f017a974be3"
+
+[[changes]]
+crate = "zaino-serve"
+kind = "feature"
+description = "Feature alpha"
