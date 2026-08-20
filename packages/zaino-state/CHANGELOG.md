@@ -13,6 +13,10 @@ and this library adheres to Rust's notion of
 ### Removed
 ### Fixed
 
+## [0.6.4] - 2026-08-20
+### Fixed
+- Guard against panic on malformed block
+
 ## [0.6.3] - 2026-08-20
 ### Fixed
 - Fix off-by-one in the tip-height gauge
