@@ -1,0 +1,6 @@
+id = "929b3730-0a3c-4fc6-9fa3-99356e6b74eb"
+
+[[changes]]
+crate = "zaino-serve"
+kind = "feature"
+description = "Cache compact filters"
