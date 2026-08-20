@@ -1,0 +1,4 @@
+[[changes]]
+crate = "zaino-proto"
+kind = "breaking"
+description = "Rename a CompactBlock wire field (breaking)."
