@@ -1,0 +1,6 @@
+id = "29e49762-6575-4815-b66f-3dfa685f5148"
+
+[[changes]]
+crate = "zaino-serve"
+kind = "feature"
+description = "Streaming batch tuning"
