@@ -1,0 +1,6 @@
+id = "de7c99f7-ac28-4ac6-a149-847fee28ed2b"
+
+[[changes]]
+crate = "zaino-proto"
+kind = "breaking"
+description = "Rename a CompactTx field for clarity"
