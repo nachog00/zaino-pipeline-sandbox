@@ -1,0 +1,6 @@
+id = "9ffcbe80-4dd6-4d9f-8354-d4d5d1e20afc"
+
+[[changes]]
+crate = "zaino-serve"
+kind = "major"
+description = "invalid kind value"
