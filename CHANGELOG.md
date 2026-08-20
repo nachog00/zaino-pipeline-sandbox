@@ -181,6 +181,12 @@ and this library adheres to Rust's notion of
 - The mempool stream parses each transaction once rather than twice, removing an
   `.unwrap()` on the same path.
 
+## [2026-08-20]
+### zainod 0.7.2
+- Config reload on SIGHUP
+### zaino-serve 0.5.3
+- Streaming batch tuning
+
 ## [0.4.1] - 2026-06-18
 - Bump zaino-proto 0.1.2 → 0.1.3 and zainod 0.4.0 → 0.4.1 to work around
   a yanked 0.1.2 slot on crates.io. No code changes.
