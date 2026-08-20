@@ -1,0 +1,6 @@
+id = "018f4e0a-7b2c-7c3d-8e4f-1a2b3c4d5e6f"
+
+[[changes]]
+crate = "zaino-state"
+kind = "feature"
+description = "Live-check change for the consumed-UID ledger verification."
