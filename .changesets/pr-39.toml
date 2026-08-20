@@ -1,0 +1,6 @@
+id = "b577eabc-08de-431b-9542-302c9eaa2da1"
+
+[[changes]]
+crate = "zainod"
+kind = "feature"
+description = "Feature beta"
