@@ -1,0 +1,4 @@
+[[changes]]
+crate = "zaino-state"
+kind = "feature"
+description = "Sandbox sim: exercise the dev-gate and the pr-<N> rename bot."
