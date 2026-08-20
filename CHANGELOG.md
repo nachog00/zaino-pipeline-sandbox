@@ -169,6 +169,10 @@ and this library adheres to Rust's notion of
   `.unwrap()` on the same path.
 
 ## [2026-08-20]
+### zaino-state 0.6.4
+- Guard against panic on malformed block
+
+## [2026-08-20]
 ### zainod 0.7.2
 - Add a --metrics-addr flag
 ### zaino-state 0.6.3

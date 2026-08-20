@@ -17,3 +17,8 @@ slug = "pr-21"
 id = "e2c03f86-4703-4e8e-b852-4b39efedff26"
 cycle = "cycle-2"
 slug = "pr-26"
+
+[[consumed]]
+id = "eb870360-25c9-4533-8f87-675986281f23"
+cycle = "cycle-3"
+slug = "pr-31"
