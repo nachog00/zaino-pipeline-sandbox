@@ -1,0 +1,6 @@
+id = "2be29c70-0fb0-4fd4-b06e-f28aed1cd1c4"
+
+[[changes]]
+crate = "zainod"
+kind = "feature"
+description = "Config reload on SIGHUP"
