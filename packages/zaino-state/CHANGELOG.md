@@ -13,6 +13,10 @@ and this library adheres to Rust's notion of
 ### Removed
 ### Fixed
 
+## [0.6.2] - 2026-08-20
+### Changed
+- dependency `zaino-proto` 0.4.0→0.5.0 crossed the requirement `^0.4.0`
+
 ## [0.6.0] - 2026-08-04
 
 ### Added

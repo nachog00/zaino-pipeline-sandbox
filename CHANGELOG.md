@@ -168,6 +168,15 @@ and this library adheres to Rust's notion of
 - The mempool stream parses each transaction once rather than twice, removing an
   `.unwrap()` on the same path.
 
+## [2026-08-20]
+### zaino-serve 0.5.3
+- Batch compact-tx streaming
+- dependency `zaino-proto` 0.4.0→0.5.0 crossed the requirement `^0.4.0`
+### zaino-state 0.6.2
+- dependency `zaino-proto` 0.4.0→0.5.0 crossed the requirement `^0.4.0`
+### zaino-proto 0.5.0
+- Rename a CompactTx field for clarity
+
 ## [0.4.1] - 2026-06-18
 - Bump zaino-proto 0.1.2 → 0.1.3 and zainod 0.4.0 → 0.4.1 to work around
   a yanked 0.1.2 slot on crates.io. No code changes.
