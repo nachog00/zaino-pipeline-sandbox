@@ -154,6 +154,10 @@ and this library adheres to Rust's notion of
   with the same value. The redundant literal emission is removed, leaving the
   constant as the single source of truth for the metric name.
 
+## [0.7.2] - 2026-09-07
+### Added
+- Live-check change for the consumed-UID ledger verification.
+
 ## [0.7.0] - 2026-08-14
 
 ### Added
