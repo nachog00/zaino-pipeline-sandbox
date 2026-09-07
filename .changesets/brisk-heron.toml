@@ -1,0 +1,6 @@
+id = "031c5a0f-654b-493c-a32e-561a4e672742"
+
+[[changes]]
+crate = "zainod"
+kind = "fix"
+description = "Sandbox: covered change to zainod."
