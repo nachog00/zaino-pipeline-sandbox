@@ -143,3 +143,5 @@ pub(crate) mod utils;
 pub mod source_caps;
 
 // Sandbox: a source change with no changeset.
+
+// Sandbox: a second source change with no changeset, after the required check.
