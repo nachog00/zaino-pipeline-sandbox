@@ -65,3 +65,5 @@ pub async fn run(config_path: PathBuf) -> Result<(), IndexerError> {
         }
     }
 }
+
+// Sandbox: a source change with a malformed changeset.
