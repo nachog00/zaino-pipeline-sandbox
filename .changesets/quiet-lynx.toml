@@ -1,0 +1,6 @@
+id = "cee63826-77e1-4fbb-82d8-8037b96d7e24"
+
+[[changes]]
+crate = "zainod"
+kind = "fix"
+description = "Sandbox: names zainod but zaino-state changed."
