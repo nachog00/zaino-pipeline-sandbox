@@ -220,7 +220,7 @@ zaino-chain-store = { path = "packages/zaino-chain-store", version = "0.1.0" }
 # chain store. Consumers depend on the ports; this is what a deployment picks.
 zaino-chain-store-zainodb = { path = "packages/zaino-chain-store-zainodb", version = "0.1.0" }
 zaino-proto = { path = "packages/zaino-proto", version = "0.4.0" }
-zaino-state = { path = "packages/zaino-state", version = "0.7.0", default-features = false }
+zaino-state = { path = "packages/zaino-state", version = "0.7.1", default-features = false }
 zaino-serve = { path = "packages/zaino-serve", version = "0.6.0", default-features = false }
 zaino-testutils = { path = "live-tests/zaino-testutils" }
 
