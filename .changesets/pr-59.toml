@@ -1,0 +1,6 @@
+id = "3d0bf6e7-62f0-4409-a10a-794c7abc2f13"
+
+[[changes]]
+crate = "zaino-state"
+kind = "fix"
+description = "Sandbox test change to exercise the PR flow."
